@@ -1,7 +1,7 @@
 Itinerary-Planner
 ===
 Welcome to the Itinerary-Planner repository! This project provides an easy-to-use Python application that calculates the shortest route from a starting point to various nearby points of interest. It leverages the A* algorithm and Bing Maps API to deliver efficient and accurate routing.
-
+---
 Features
 ---
 Shortest Route Calculation: Determines the shortest path from a given start point to multiple points of interest.
